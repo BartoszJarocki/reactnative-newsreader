@@ -1,4 +1,4 @@
 import { AppRegistry } from 'react-native'
-import App from './app/components/App'
+import AppComponent from './app/components/App'
 
-AppRegistry.registerComponent('NewsReader', () => App)
+AppRegistry.registerComponent('NewsReader', () => AppComponent)
